@@ -1,0 +1,101 @@
+#lux::first-letter{
+    color: brown;
+    font-size:xx-large;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+#luxbody{
+    background-color:gold;
+}
+#lux{
+background-color:blanchedalmond;
+border: 10px 10px 10px;
+border-radius: 30px 30px 30px;
+text-align: center;
+text-shadow: 50px 50px 50px;
+box-shadow: 50px 50px 50px;
+}
+#louistitle::first-letter{
+    color: gold;
+    font-size: larger;  
+}
+#louistitle{
+    text-shadow: 50px 50px 50px;
+    box-shadow: 10px 10px 10px;
+    border: solid black;
+    border-radius: 30px;
+}
+
+#louisbody{
+    background-color:brown;
+    text-align: center;
+}
+li::marker{
+    content: icon;
+}
+#spanlouis{
+    display: inline-block;
+    width: 1200px;
+    
+}
+#spanlouis:hover{background-color: black;
+color: gold;}
+#guccititle::first-letter{
+
+        color: gold;
+        font-size: larger; 
+}
+
+#guccititle{
+    background-color:beige;
+    text-align: center;text-shadow: 50px 50px 50px;
+    box-shadow: 10px 10px 10px;
+    border: solid black;
+    border-radius: 30px;
+}
+#Guccibody{background-color:gray;
+    text-align: center;
+}
+#gucci{
+    background-color: grey;
+    width: 400px;
+}
+#guccispan{ display: inline-block ;
+    width: 1300px;
+}
+
+    #guccispan:hover{
+        background-color: red;
+        color: blue;
+    }
+    #lvimg{width:400px;}
+#diortitle::first-letter{
+    color: gold;
+    font-size: larger;
+}
+#diortitle{ background-color:coral;
+    text-align: center;text-shadow: 50px 50px 50px;
+    box-shadow: 10px 10px 10px;
+    border: solid black;
+    border-radius: 30px;
+}
+#diorbody{
+    background-color: coral;
+}
+#diorpic{
+    width: 450px;
+}
+#diorspan{
+    display: inline-block;
+    width: 1300px;
+    height: 200px;
+    text-align: center;
+    font-size: medium;
+}
+#diorspan:hover{
+    background-color:gray;
+    color: yellow;
+}
+
